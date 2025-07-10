@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/react": "^3.0.5",
+    "@astrojs/react": "^3.6.3",
     "@astrojs/tailwind": "^5.0.2",
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^1.0.6",
