@@ -1,4 +1,4 @@
-FROM node:20.9.0 as development
+FROM node:20.19.6 as development
 
 WORKDIR /app
 
